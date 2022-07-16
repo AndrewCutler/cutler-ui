@@ -7,9 +7,8 @@
 		"build": "tsc",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "",
+	"author": "Andrew Cutler",
 	"license": "ISC",
-	"dependencies": {},
 	"devDependencies": {
 		"@chakra-ui/react": "^2.1.3",
 		"@fontsource/inconsolata": "^4.5.6",
